@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: Master of Science, Analytics
+  - course: Master of Science in Analytics
     institution: Institute for Advanced Analytics at NC State University
     year: 2019
-  - course: Bacheleor of Science, Chemistry
+  - course: Bacheleor of Science in Chemistry
     institution: Elon University
     year: 2009
 
