@@ -17,28 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Internal Auditor - BSA/AML"
+  company = "BB&T"
+  company_url = "https://www.bbt.com/"
+  location = "Raleigh, North Carolina"
+  date_start = "2019-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
   * Analysing
   * Modelling
-  * Deploying
-  """
+  * Deploying"""
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Lead, Document Services"
+  company = "Copernicus Group IRB"
+  company_url = "http://www.cgirb.com/"
+  location = "Cary, North Carolina"
+  date_start = "2015-02-01"
+  date_end = "2018-05-01"
+  description = """
+  Responsibilities include:
 
+  * Implemented multiple regression model for forecasting timelines for project completion
+  * Designed daily priorities report, reducing team processing timelines by 38% between 2016 and 2017
+  * Formulated measures for individual team member performance and methods for collecting and analyzing productivity from SQL and MS Access reports
+  * Established, tested, and trained employees on new work processes during company’s transition to new product development software"""
 +++
