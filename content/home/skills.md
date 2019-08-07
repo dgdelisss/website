@@ -25,11 +25,65 @@ subtitle = ""
   icon_pack = "fab"
   name = "python"
   description = ""
+
+[[feature]]
+  icon = "asterisk"
+  icon_pack = "fab"
+  name = "SAS"
+  description = ""
+
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Vizualization"
+  description = ""  
+
+[[feature]]
+  icon = "git-square"
+  icon_pack = "fas"
+  name = "git"
+  description = ""  
+
+[[feature]]
+  icon = "markdown"
+  icon_pack = "fas"
+  name = "markdown"
+  description = ""  
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fas"
+  name = "linux"
+  description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "docker"
   icon_pack = "fas"
-  name = "Analytics"
+  name = "docker"
+  description = ""  
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fas"
+  name = "html"
+  description = ""
+  
+[[feature]]
+  icon = "CSS3"
+  icon_pack = "fas"
+  name = "css3"
+  description = ""  
+
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fas"
+  name = "js-square"
+  description = ""  
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fas"
+  name = "aws"
   description = ""  
 
 +++

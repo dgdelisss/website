@@ -16,12 +16,12 @@ role: []
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Analytics Professional.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Advanced Analytics
+- Machine Learning & AI
+- Amateur Astronomy & Photography
 
 education:
   courses:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Results-driven, business, and analytics professional with over three years of operational management experience. Talents include high-performance team building, root-cause analysis, predictive modeling, data visualization, risk and audit analytics.
