@@ -28,13 +28,13 @@ subtitle = ""
 
 [[feature]]
   icon = "asterisk"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SAS"
   description = ""
 
 [[feature]]
   icon = "chart-area"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Data Visualization"
   description = ""  
 
@@ -70,7 +70,7 @@ subtitle = ""
   
 [[feature]]
   icon = "CSS3"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "css3"
   description = ""  
 
