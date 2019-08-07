@@ -69,9 +69,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "CSS3"
-  icon_pack = "fas"
-  name = "css3"
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS3"
   description = ""  
 
 [[feature]]
@@ -82,7 +82,7 @@ subtitle = ""
 
 [[feature]]
   icon = "aws"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "aws"
   description = ""  
 
