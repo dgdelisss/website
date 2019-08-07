@@ -34,49 +34,49 @@ subtitle = ""
 
 [[feature]]
   icon = "chart-area"
-  icon_pack = "fas"
-  name = "Data Vizualization"
+  icon_pack = "fab"
+  name = "Data Visualization"
   description = ""  
 
 [[feature]]
   icon = "git-square"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "git"
   description = ""  
 
 [[feature]]
   icon = "markdown"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "markdown"
   description = ""  
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "linux"
   description = ""  
   
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "docker"
   description = ""  
 
 [[feature]]
   icon = "html5"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "html"
   description = ""
   
 [[feature]]
   icon = "CSS3"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "css3"
   description = ""  
 
 [[feature]]
   icon = "js-square"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "js-square"
   description = ""  
 
