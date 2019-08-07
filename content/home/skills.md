@@ -77,7 +77,7 @@ subtitle = ""
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
-  name = "js-square"
+  name = "JavaScript"
   description = ""  
 
 [[feature]]
