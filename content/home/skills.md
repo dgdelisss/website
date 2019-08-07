@@ -65,7 +65,7 @@ subtitle = ""
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
-  name = "html"
+  name = "html5"
   description = ""
   
 [[feature]]
