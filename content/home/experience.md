@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying"""
+  * Provides Audit Analytics Support for Compliance and Financial Crime Audits
+  * Creates Data Science Driven methodology for Audit Testing
+  * Automates routine processes as needed
 
 
 [[experience]]
@@ -41,7 +41,6 @@ date_format = "Jan 2006"
   date_start = "2015-02-01"
   date_end = "2018-05-01"
   description = """
-  Responsibilities include:
 
   * Implemented multiple regression model for forecasting timelines for project completion
   * Designed daily priorities report, reducing team processing timelines by 38% between 2016 and 2017
