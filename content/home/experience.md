@@ -26,11 +26,10 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
   * Provides Audit Analytics Support for Compliance and Financial Crime Audits
   * Creates Data Science Driven methodology for Audit Testing
-  * Automates routine processes as needed
+  * Automates routine processes as needed"""
 
 
 [[experience]]
