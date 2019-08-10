@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-<br>
+
   * Provides Audit Analytics Support for Compliance and Financial Crime Audits
   * Creates Data Science Driven methodology for Audit Testing
   * Automates routine processes as needed"""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2015-02-01"
   date_end = "2018-05-01"
   description = """
-<br>
+
   * Implemented multiple regression model for forecasting timelines for project completion
   * Designed daily priorities report, reducing team processing timelines by 38% between 2016 and 2017
   * Formulated measures for individual team member performance and methods for collecting and analyzing productivity from SQL and MS Access reports
