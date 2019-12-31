@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Internal Auditor - BSA/AML"
-  company = "BB&T"
+  title = "Internal Auditor - Compliance CoE"
+  company = "BB&T now Truist"
   company_url = "https://www.bbt.com/"
   location = "Raleigh, North Carolina"
   date_start = "2019-06-01"
