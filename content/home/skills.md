@@ -39,6 +39,18 @@ subtitle = ""
   description = ""
 
 [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Tableau"
+  description = ""  
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "PowerBI"
+  description = ""  
+
+[[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Data Visualization"
@@ -92,16 +104,5 @@ subtitle = ""
   name = "aws"
   description = ""  
 
-[[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Tableau"
-  description = ""  
-  
-[[feature]]
-  icon = "windows"
-  icon_pack = "fab"
-  name = "PowerBI"
-  description = ""  
 
 +++
