@@ -23,8 +23,14 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
   description = ""
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = ""  
 
 [[feature]]
   icon = "asterisk"
@@ -41,31 +47,31 @@ subtitle = ""
 [[feature]]
   icon = "git-square"
   icon_pack = "fab"
-  name = "git"
+  name = "Git"
   description = ""  
 
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
-  name = "markdown"
+  name = "Markdown"
   description = ""  
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
-  name = "linux"
+  name = "Linux"
   description = ""  
   
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
-  name = "docker"
+  name = "Docker"
   description = ""  
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
-  name = "html5"
+  name = "Html5"
   description = ""
   
 [[feature]]
@@ -83,17 +89,17 @@ subtitle = ""
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
-  name = "aws"
+  name = "AWS"
   description = ""  
 
 [[feature]]
-  icon = "chart-pie"
-  icon_pack = "fab"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Tableau"
   description = ""  
   
 [[feature]]
-  icon = "signal"
+  icon = "windows"
   icon_pack = "fab"
   name = "PowerBI"
   description = ""  
