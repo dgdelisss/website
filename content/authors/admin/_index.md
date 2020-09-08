@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Results-driven, business, and analytics professional with over three years of operational management experience. Talents include high-performance team building, root-cause analysis, predictive modeling, data visualization, risk and audit analytics.
+Results-driven, business and analytics professional. Talents include predictive modeling, data visualization, exploratory data analysis, risk analytics, high-performance team building, root-cause analysis, and process management.
