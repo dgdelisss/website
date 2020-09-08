@@ -71,7 +71,7 @@ subtitle = ""
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
-  name = "Html5"
+  name = "html5"
   description = ""
   
 [[feature]]
@@ -89,7 +89,7 @@ subtitle = ""
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
-  name = "AWS"
+  name = "aws"
   description = ""  
 
 [[feature]]
