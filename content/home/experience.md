@@ -21,15 +21,15 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Internal Auditor - Compliance CoE"
   company = "BB&T now Truist"
-  company_url = "https://www.bbt.com/"
+  company_url = "https://www.truist.com/"
   location = "Raleigh, North Carolina"
   date_start = "2019-06-01"
   date_end = ""
   description = """
 
-  * Provides Audit Analytics Support for Compliance and Financial Crime Audits
-  * Creates Data Science Driven methodology for Audit Testing
-  * Automates routine processes as needed"""
+  * Developed and deployed Compliance Risk Assessment Model utilizing PowerBI and Microsoft Excel, allowing Audit Team to adjust risk factor inputs and visualize inherent risk of Auditable Units
+  * Designed automated Issue Management Dashboard, employing Python and Tableau, giving Audit Directors both high and detailed level views of their ongoing Audit Issues
+  * Provided exploratory data analysis and data sourcing for compliance related audits using a variety of tools such as SQL, Python, R, and SAS"""
 
 
 [[experience]]

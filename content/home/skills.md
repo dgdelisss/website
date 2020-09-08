@@ -86,4 +86,16 @@ subtitle = ""
   name = "aws"
   description = ""  
 
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fab"
+  name = "Tableau"
+  description = ""  
+  
+[[feature]]
+  icon = "signal"
+  icon_pack = "fab"
+  name = "PowerBI"
+  description = ""  
+
 +++
