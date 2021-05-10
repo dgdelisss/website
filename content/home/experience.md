@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Raleigh, North Carolina"
   date_start = "2021-04-01"
   date_end = ""
-  description = """
+  description = ""
 
 [[experience]]
   title = "Data Analyst - Compliance CoE"
