@@ -19,17 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Data Analyst - Compliance Risk Governance"
+  company = "Truist"
+  company_url = "https://www.truist.com/"
+  location = "Raleigh, North Carolina"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+
+[[experience]]
+  title = "Data Analyst - Compliance CoE"
+  company = "Truist"
+  company_url = "https://www.truist.com/"
+  location = "Raleigh, North Carolina"
+  date_start = "2019-12-01"
+  date_end = "2021-04-01"
+  description = """
+
+  * Developed and deployed Compliance Risk Assessment Model utilizing PowerBI and Microsoft Excel, allowing Audit Team to adjust risk factor inputs and visualize inherent risk of Auditable Units
+  * Designed automated Issue Management Dashboard, employing Python and Tableau, giving Audit Directors both high and detailed level views of their ongoing Audit Issues"""
+  
+[[experience]]
   title = "Internal Auditor - Compliance CoE"
   company = "BB&T now Truist"
   company_url = "https://www.truist.com/"
   location = "Raleigh, North Carolina"
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """
 
-  * Developed and deployed Compliance Risk Assessment Model utilizing PowerBI and Microsoft Excel, allowing Audit Team to adjust risk factor inputs and visualize inherent risk of Auditable Units
-  * Designed automated Issue Management Dashboard, employing Python and Tableau, giving Audit Directors both high and detailed level views of their ongoing Audit Issues
-  * Provided exploratory data analysis and data sourcing for compliance related audits using a variety of tools such as SQL, Python, R, and SAS"""
+* Provided exploratory data analysis and data sourcing for compliance related audits using a variety of tools such as SQL, Python, R, and SAS"""
 
 
 [[experience]]

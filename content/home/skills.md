@@ -63,12 +63,6 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "Markdown"
-  description = ""  
-
-[[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
@@ -102,6 +96,12 @@ subtitle = ""
   icon = "aws"
   icon_pack = "fab"
   name = "aws"
+  description = ""  
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Azure"
   description = ""  
 
 
