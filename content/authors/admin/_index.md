@@ -10,10 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: "Vice President, Senior Data Analyst"
+role: Vice President, Senior Data Analyst
 
 # Organizations/Affiliations
-organizations: "Truist"
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: Data Analytics Professional.
